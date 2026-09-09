@@ -1,2 +1,2 @@
 # CloneOfQ
-Cloning a banking chatbot
+Cloning a banking chatbot Q.
